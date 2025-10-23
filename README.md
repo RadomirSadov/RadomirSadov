@@ -52,6 +52,8 @@ Utilizes advanced Keras callbacks, including ModelCheckpoint (for saving the bes
 
 Final performance is comprehensively assessed using Validation Loss/Accuracy, a Confusion Matrix, and a full Classification Report.
 
+[**Download Dataset (Required to run)**](https://www.dropbox.com/scl/fo/zln8v6kig7hq5nuuzthvk/AANgLcF8x8PhfbizgR4i9zs?rlkey=som6pxxn79s0bvnpkwpttvi17&st=wgc37pe1&dl=0)
+
 ## There are going to be changes to the project. It's not fully done... ###
 
 ## 📊 My GitHub Stats
