@@ -1,6 +1,6 @@
 # Hi there, I'm Radomir! 👋
 
-I'm a **Python Developer and Machine Learning Enthusiast** with a deep passion for **extracting meaningful insights from complex celestial data**. I primarily work with **Python, scikit-learn, tensorflow, matplotlib, numpy,pandas and specialized libraries like Astropy** and love turning **raw observational data into predictive models of the cosmos**.
+I'm a **Python Developer and Machine Learning Enthusiast** with a deep passion for **extracting meaningful insights from complex celestial data**. I primarily work with **Python, scikit-learn, tensorflow, matplotlib, numpy, pandas and specialized libraries like Astropy** and love turning **raw observational data into predictive models of the cosmos**.
 
 ## ⚙️ Technologies & Tools
 
