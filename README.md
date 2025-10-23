@@ -42,8 +42,8 @@ Preprocessing Pipeline:
 Includes necessary steps for production-ready model training:
 
 Data Normalization ($\frac{x}{255}$) for stable training.
-Image Resizing to a standard $224 \times 224$ input using $\texttt{tf.image.resize}$.
-Label One-Hot Encoding using $\texttt{to\_categorical}$.
+Image Resizing to a standard $224 \times 224$ input using `tf.image.resize` function.
+Label One-Hot Encoding using `to_categorical` utility.
 Data Augmentation (random flips, brightness, and contrast adjustments) to prevent overfitting and improve generalization.
 
 Training & Evaluation: 
