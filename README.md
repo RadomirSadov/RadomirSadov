@@ -31,7 +31,7 @@ This project replicates the core task of the citizen science initiative Galaxy Z
 
 Project Highlights:Objective:
 
-To classify galaxies into a binary (2-class) or multi-class system (based on the Binary_2_5_dataset.h5 file) by identifying structural features like spiral arms or smooth, elliptical shapes.
+To classify galaxies into a binary (2-class) or multi-class system by identifying structural features like spiral arms or smooth, elliptical shapes.
 
 Model Architecture: 
 
